@@ -13,7 +13,7 @@ make
 
 ## Running
 
-Run the executable file that it crates after *make*.
+Run the executable file that it creates after *make*.
 
 ```bash
 .\loginsystem.exe
